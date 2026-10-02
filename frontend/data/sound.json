@@ -1,0 +1,50 @@
+[
+  {
+    "id": "pa-basic",
+    "name": "Compact PA System (Small Venue)",
+    "description": "2x Active 12\" PA Speakers on stands, suitable for up to 100 indoor guests or lounge setups.",
+    "photos": ["/images/sound/pa-basic.jpg"],
+    "price": 250,
+    "category": "speakers"
+  },
+  {
+    "id": "pa-pro",
+    "name": "Concert PA System & Subwoofers (Medium/Large Venue)",
+    "description": "2x High-Power Main PA Speakers, 2x 18\" Subwoofers, and floor stage monitors for crystal clear punchy acoustics up to 400 guests.",
+    "photos": ["/images/sound/pa-pro.jpg"],
+    "price": 500,
+    "category": "speakers"
+  },
+  {
+    "id": "mics-bundle",
+    "name": "Wireless Microphone Package",
+    "description": "4x Shure UHF Wireless Handheld Microphones with anti-interference receivers and stands.",
+    "photos": ["/images/sound/mics.jpg"],
+    "price": 120,
+    "category": "mics"
+  },
+  {
+    "id": "digital-mixer",
+    "name": "Digital Mixer Console & Stage Box",
+    "description": "Behringer/Allen&Heath 16-channel digital mixer with iPad wireless control and multi-track recording capability.",
+    "photos": ["/images/sound/mixer.jpg"],
+    "price": 180,
+    "category": "mixer"
+  },
+  {
+    "id": "stage-lighting",
+    "name": "Warm Stage & Ambient Lighting Rig",
+    "description": "6x RGBW LED Stage Wash Lights, 2x Warm White Spotlights, and DMX light controller for concert atmosphere.",
+    "photos": ["/images/sound/lights.jpg"],
+    "price": 220,
+    "category": "lighting"
+  },
+  {
+    "id": "sound-engineer",
+    "name": "Dedicated On-Site Sound Engineer",
+    "description": "Professional audio technician to handle live sound mixing, sound check, micro-phone management, and acoustic balance throughout your event.",
+    "photos": ["/images/sound/engineer.jpg"],
+    "price": 250,
+    "category": "sound engineer"
+  }
+]
